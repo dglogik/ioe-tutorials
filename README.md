@@ -16,17 +16,18 @@ Explore your Installation - https://youtu.be/x3JMquRp6BA
 
 # Tutorials
 
-# 1. Mobile Phone Accelerometer Visualization
-
-
-
-----------
-# 2. Directions to office
+1. Mobile Phone Accelerometer Visualization
+-
 
 
 ----------
-# 3. Lightsaber
-
+2. Directions to office
+-
 
 ----------
-# 4. IoT Todo Display
+3. Lightsaber
+-
+
+----------
+4. IoT Todo Display
+-
