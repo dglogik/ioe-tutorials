@@ -18,16 +18,19 @@ Explore your Installation - https://youtu.be/x3JMquRp6BA
 
 1. Mobile Phone Accelerometer Visualization
 -
-
+Learn how to visually publish and subscribe to telemetry data from your mobile device.
 
 ----------
 2. Directions to office
 -
+Use your mobile device's geolocation ability to guide your visitors directly to your office or residence.
 
 ----------
 3. Lightsaber
 -
+In the theme of the Star Wars franchise, learn how to control a virtual lightsaber with your phone.
 
 ----------
 4. IoT Todo Display
 -
+Manage your todo list with your phone's calendar application and display notifications on a dedicated IoT display.
