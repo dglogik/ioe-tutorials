@@ -31,6 +31,11 @@ Use your mobile device's geolocation ability to guide your visitors directly to 
 In the theme of the Star Wars franchise, learn how to control a virtual lightsaber with your phone.
 
 ----------
-4. IoT Todo Display
+4. Command-Center
+-
+Control your command-center screens with a mobile companion application.
+
+----------
+5. IoT Todo Display
 -
 Manage your todo list with your phone's calendar application and display notifications on a dedicated IoT display.
